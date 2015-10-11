@@ -23,6 +23,7 @@ PRODUCT_NAME := cm_ferrari
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Mi 4i
 PRODUCT_MANUFACTURER := Xiaomi
+PRODUCT_LOCALES := zh_CN zh_TW en_US
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
